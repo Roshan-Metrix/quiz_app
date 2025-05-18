@@ -19,7 +19,7 @@ This Quiz App is a simple web application built using Tailwind CSS and Vanilla J
 ## Setup
 To run the Quiz App locally on your machine, follow these steps:
 1. Clone the repository to your local machine: <br>
-  git clone https://github.com/NepTech-Roshan/quiz_app.git
+  git clone https://github.com/Roshan-Matrix/quiz_app.git
 2. Navigate to the project directory: <br>
   cd quiz_app <br>
 3. Open the `index.html` file in your web browser: <br>
